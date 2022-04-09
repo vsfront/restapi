@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "auth": {
+      "restapi1864a9e7": [
+        "create",
+        "read",
+        "update"
+      ]
+    }
+  },
+  "lambdaLayers": []
+}
